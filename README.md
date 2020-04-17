@@ -1,4 +1,5 @@
-#Determining the Relationship Between Opening Weekend Results, Critical Reviews, and Box Office Success
+Determining the Relationship Between Opening Weekend Results, Critical Reviews, and Box Office Success
+-
 
 Objectives
 -
