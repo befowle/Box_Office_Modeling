@@ -29,7 +29,7 @@ Observations
 -
 - Critic Reviews vs Gross Revenue
 
-<img src = "images/audience_revenue.png"> reviews_revenue
+<img src = "images/reviews_revenue.png"> 
 
 - Notice there isn’t a strong relationship between the two data sets. 
 
