@@ -9,7 +9,7 @@ Objectives
 
 - We also looked at domestic opening weekend revenue from 2013-2018 as an indicator of what audiences are excited to see, and if high opening weekend revenue indicated that a film would perform well overall. 
 
--More specifically we wanted to explore the relationship between critic + viewer ratings and box office revenue. Do critically-acclaimed films achieve box office success? Or, do films rated highly by audiences perform better?
+- More specifically we wanted to explore the relationship between critic + viewer ratings and box office revenue. Do critically-acclaimed films achieve box office success? Or, do films rated highly by audiences perform better?
 
 - Overall, we found that reviews are not correlated to gross revenue, but opening weekend revenue is strongly correlated to the total gross revenue. We can even use this relationship to predict the total gross revenue based on opening weekend revenue
 
@@ -19,7 +19,7 @@ Process
 
 - We joined data from Box Office Mojo and Metacritic to compare the critic’s score to gross revenue from the year 2018.
 
-- critic_revenue
+<img src = "images/critic_revenue.png"> 
 
 - Notice there isn’t a strong relationship between the two data sets. 
 
@@ -29,7 +29,7 @@ Observations
 -
 - Critic Reviews vs Gross Revenue
 
-- reviews_revenue
+<img src = "images/audience_revenue.png"> reviews_revenue
 
 - Notice there isn’t a strong relationship between the two data sets. 
 
@@ -37,7 +37,7 @@ Observations
 
 - Audience Score vs Gross Revenue
 
--audience_revenue
+<img src = "images/audience_revenue.png"> 
 
 - We found a similar relationship between user scores and gross revenue. High audience ratings do not mean a film does well at the box office.
 
@@ -45,7 +45,7 @@ Observations
 
 - Gross Revenue vs Opening Weekend Revenue
 
-- gross_opening
+<img src = "images/gross_opening.png"> 
 
 - The data indicates there is a linear relationship between gross revenue and opening weekend revenue, which can be used to model the predicted outcomes for new movie projects
  
@@ -61,4 +61,4 @@ Future Work
 
 - Social media correlations
 
-- Budget/revenue/gross analysis
+- Budget, net/gross revenue analysis
