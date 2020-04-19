@@ -19,12 +19,6 @@ Process
 
 - We joined data from Box Office Mojo and Metacritic to compare the critic’s score to gross revenue from the year 2018.
 
-<img src = "images/critic_revenue.png"> 
-
-- Notice there isn’t a strong relationship between the two data sets. 
-
--Because of this, we would not recommend using critic scores to predict success at the box office. It’s helpful to identify this because on the surface, one might presume that more people will go out to see a movie that is critically-acclaimed.
-
 Observations
 -
 - Critic Reviews vs Gross Revenue
